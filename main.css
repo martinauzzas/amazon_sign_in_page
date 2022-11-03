@@ -59,6 +59,7 @@ input {
     font-size: 16px;
     margin-top: 20px;
     margin-bottom: 30px;
+    cursor: pointer;
   }
 
 #help{
@@ -113,6 +114,7 @@ button{
     border-radius: 3px;
     margin-left: 442px;
     margin-bottom: 60px;
+    cursor: pointer;
 }
 
 
@@ -135,13 +137,3 @@ footer p{
     color: black;
 }
 
-/* how to separate labels and input*/
-
-
-/* height input*/
-
-/*Color forget password and need help*/
-
-/* Continue button costume */
-
-/* need help li */
